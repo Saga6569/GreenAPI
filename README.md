@@ -20,7 +20,9 @@
 
 ## Демо
 
-https://saga6569.github.io/GreenAPI/
+**https://saga6569.github.io/GreenAPI/**
+
+Публичный постоянный деплой (GitHub Pages). Токены GREEN-API в сборку не входят — вводятся на экране входа.
 
 Сборка публикуется GitHub Pages (см. `.github/workflows/deploy.yml`).
 
