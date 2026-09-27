@@ -18,6 +18,12 @@
 - Vite
 - Без UI-библиотек — чистый CSS
 
+## Демо
+
+https://saga6569.github.io/GreenAPI/
+
+Сборка публикуется GitHub Pages (см. `.github/workflows/deploy.yml`).
+
 ## Локальный запуск
 
 ### Требования
